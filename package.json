@@ -1,0 +1,24 @@
+{
+  "name": "temperature-oracle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@truffle/contract": "^4.5.2",
+    "@truffle/hdwallet-provider": "^2.0.4",
+    "bluebird": "^3.7.2",
+    "fetch": "^1.1.0",
+    "web3": "^1.7.1"
+  },
+  "devDependencies": {
+    "truffle-plugin-verify": "^0.5.24",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.3"
+  }
+}

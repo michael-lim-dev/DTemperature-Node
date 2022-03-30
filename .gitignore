@@ -1,0 +1,8 @@
+node_modules/
+build/
+.secret
+.env
+
+# Editor directories and files
+.idea
+package-lock.json
